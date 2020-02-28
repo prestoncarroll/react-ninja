@@ -10,7 +10,7 @@ const App = () => {
   //using state to store the recipes and set them
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState('');
-  const [query, setQuery] = useState('chicken')
+  const [query, setQuery] = useState('steak')
 
   useEffect(() => {
     getRecipes();
@@ -59,6 +59,7 @@ const App = () => {
           image={recipe.recipe.image}
           ingredients={recipe.recipe.ingredients}
         />
+
       )
       )}
     </div>
