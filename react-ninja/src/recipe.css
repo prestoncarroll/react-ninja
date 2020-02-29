@@ -4,10 +4,14 @@
     margin: 40px;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
     background: white;
     align-items: center;
     min-width: 40%;
-    
-
 }
+@media screen and (max-width: 600px) {
+    .recipe {
+        justify-content: start;
+    }
+  }
