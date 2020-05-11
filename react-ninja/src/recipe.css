@@ -13,5 +13,6 @@
 @media screen and (max-width: 600px) {
     .recipe {
         justify-content: start;
+        padding-left:10 px;
     }
   }
