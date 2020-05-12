@@ -10,7 +10,7 @@ CSS
 
 
 Dependencies
-
+AJAX and API
 dotenv
 Node.js
 Express
