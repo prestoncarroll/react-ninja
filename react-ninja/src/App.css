@@ -22,7 +22,7 @@
   width: 50%;
   border: black;
   padding: 10px;
-  box-shadow: 0px 5px 20px black;
+  box-shadow: 0px 5px 10px black;
 }
 
 .search-button {
@@ -31,8 +31,9 @@
   border: none;
   padding: 10px 20px;
   color: white;
+  box-shadow: 0px 5px 10px black;
   
-  box-shadow: 0px 5px 20px black;
+  
 }
 
 
