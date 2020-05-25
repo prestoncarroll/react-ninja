@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # React Recipe
+
+
 
 **React Recipe** 
 
