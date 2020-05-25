@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # React Recipe
 
-
-
 **React Recipe** 
 
  React Recipe is a simple React app that allows you to search up for any food or ingredient and you will receive a recipe for tons of meals!
@@ -23,6 +21,7 @@
 
 ## Other Tools
 * Api
+
 
 
 ## Links & Portfolio's Links
